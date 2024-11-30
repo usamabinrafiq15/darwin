@@ -87,6 +87,10 @@
   height: 63px;
   width: fit-content;
   color: var(--primary);
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
 }
 .button-divider {
   height: 100%;
@@ -101,6 +105,20 @@
   cursor: pointer;
   padding-left: 20px;
   padding-right: 20px;
-  letter-spacing: 1px;
+  letter-spacing: 0.1px;
   font-weight: 500;
+  font-size: 1rem;
+}
+
+@media (max-width: 768px) {
+  .button-section {
+    height: 47px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  .button-text {
+    font-size: 0.9rem;
+  }
 }
