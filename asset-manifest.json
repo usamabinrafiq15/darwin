@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/darwin/static/css/main.392b17d7.css",
-    "main.js": "/darwin/static/js/main.1ed46cc6.js",
+    "main.css": "/darwin/static/css/main.ab6e509e.css",
+    "main.js": "/darwin/static/js/main.f89da44b.js",
     "static/js/453.65dac91a.chunk.js": "/darwin/static/js/453.65dac91a.chunk.js",
     "index.html": "/darwin/index.html",
-    "main.392b17d7.css.map": "/darwin/static/css/main.392b17d7.css.map",
-    "main.1ed46cc6.js.map": "/darwin/static/js/main.1ed46cc6.js.map",
+    "main.ab6e509e.css.map": "/darwin/static/css/main.ab6e509e.css.map",
+    "main.f89da44b.js.map": "/darwin/static/js/main.f89da44b.js.map",
     "453.65dac91a.chunk.js.map": "/darwin/static/js/453.65dac91a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.392b17d7.css",
-    "static/js/main.1ed46cc6.js"
+    "static/css/main.ab6e509e.css",
+    "static/js/main.f89da44b.js"
   ]
 }
