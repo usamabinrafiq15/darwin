@@ -18,6 +18,12 @@
     margin-bottom: 40px;
   }
 }
+@media (max-width: 540px) {
+  .hero-wrapper-responsive {
+    height: auto;
+    padding-top: 6rem;
+  }
+}
 
 .hero-text {
   font-weight: 900;
