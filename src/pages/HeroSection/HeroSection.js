@@ -18,7 +18,7 @@ const HeroSection = () => {
               <div className="d-flex justify-content-center">
                 <p className=" mt-lg-5 pt-5  text-center sub-text ">
                   The Onco Semantics R&D Lab on a mission to decode Cancer’s
-                  language and enable Humans to develop High- precision Drugs!
+                  language and enable Humans to develop High-precision Drugs!
                 </p>
               </div>
             </div>
