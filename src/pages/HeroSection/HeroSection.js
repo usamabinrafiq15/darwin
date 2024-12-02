@@ -39,19 +39,19 @@ const HeroSection = () => {
                 has been actively developing OncoGalactica, its flagship AI
                 Oncology Semantic framework, to:
               </p>
-              <p className="sub-content-text">
+              <p className="sub2-content-text pt-0">
                 1. Integrate multi-dimensional molecular and clinical oncology
                 data with AI semantics.
               </p>
-              <p className="sub-content-text">
+              <p className="sub2-content-text">
                 2. Decipher causal relationships between genes and downstream
                 receptor and signalling proteins.
               </p>
-              <p className="sub-content-text">
+              <p className="sub2-content-text">
                 3. Reconstruct the unique molecular aetiology of individual
                 patients.
               </p>
-              <p className="sub-content-text">
+              <p className="sub2-content-text" style={{ marginBottom: "40px" }}>
                 4. Identify key molecular mechanisms driving carcinogenesis and
                 drug resistance in solid tumours with patient-level granularity.
               </p>

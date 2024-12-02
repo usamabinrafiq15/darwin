@@ -57,6 +57,16 @@
   text-align: start;
   max-width: 1060px;
 }
+.sub2-content-text {
+  color: var(--white);
+  opacity: 0.9;
+  font-size: var(--fs-40);
+  padding-top: 20px;
+  // text-align: justify;
+  text-align: start;
+  max-width: 1060px;
+  margin: 0px;
+}
 
 @media (min-width: 1181px) {
   .sub-text {
@@ -72,6 +82,10 @@
     padding-right: 10px;
   }
   .sub-content-text {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .sub2-content-text {
     padding-left: 10px;
     padding-right: 10px;
   }
