@@ -32,29 +32,28 @@ const HeroSection = () => {
                 burdens for pharmaceutical companies, hospitals, and patients.
               </p>
             </div>
-            <div className="d-flex justify-content-center">
+            <div className="d-flex flex-column align-items-center">
               <p className="sub-content-text">
                 <b>OncoGalactica :</b> To investigate the molecular causes of
                 drug resistance in solid tumour conditions, Darwin (Bio + AI)
                 has been actively developing OncoGalactica, its flagship AI
                 Oncology Semantic framework, to:
-                <p className="sub-content-text pt-4">
-                  1. Integrate multi-dimensional molecular and clinical oncology
-                  data with AI semantics.
-                </p>
-                <p className="sub-content-text">
-                  2. Decipher causal relationships between genes and downstream
-                  receptor and signalling proteins.
-                </p>
-                <p className="sub-content-text">
-                  3. Reconstruct the unique molecular aetiology of individual
-                  patients.
-                </p>
-                <p className="sub-content-text">
-                  4. Identify key molecular mechanisms driving carcinogenesis
-                  and drug resistance in solid tumours with patient-level
-                  granularity.
-                </p>
+              </p>
+              <p className="sub-content-text">
+                1. Integrate multi-dimensional molecular and clinical oncology
+                data with AI semantics.
+              </p>
+              <p className="sub-content-text">
+                2. Decipher causal relationships between genes and downstream
+                receptor and signalling proteins.
+              </p>
+              <p className="sub-content-text">
+                3. Reconstruct the unique molecular aetiology of individual
+                patients.
+              </p>
+              <p className="sub-content-text">
+                4. Identify key molecular mechanisms driving carcinogenesis and
+                drug resistance in solid tumours with patient-level granularity.
               </p>
             </div>
 
