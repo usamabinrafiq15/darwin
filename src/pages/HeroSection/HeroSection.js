@@ -75,16 +75,16 @@ const HeroSection = () => {
             </div>
             <div className="d-flex justify-content-center">
               <p className="sub-content-text">
-                Please check the “Research” page below to get a high-level
-                understanding of our OncoGalactica R&D, use cases, and key
-                milestones.
+                Please check the <b>“Research”</b> page below to get a
+                high-level understanding of our OncoGalactica R&D, use cases,
+                and key milestones.
               </p>
             </div>
             <div className="d-flex justify-content-center">
               <p className="sub-content-text">
                 If you wish to collaborate with us or are simply curious to know
                 more about our research objectives, please feel free to reach
-                out to us by clicking on “Contact”.
+                out to us by clicking on <b>“Contact”</b>.
               </p>
             </div>
 
