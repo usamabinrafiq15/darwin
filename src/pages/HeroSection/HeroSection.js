@@ -33,13 +33,13 @@ const HeroSection = () => {
               </p>
             </div>
             <div className="d-flex flex-column align-items-center">
-              <p className="sub-content-text">
+              <p className="sub2-content-text pt-0">
                 <b>OncoGalactica :</b> To investigate the molecular causes of
                 drug resistance in solid tumour conditions, Darwin (Bio + AI)
                 has been actively developing OncoGalactica, its flagship AI
                 Oncology Semantic framework, to:
               </p>
-              <p className="sub2-content-text pt-0">
+              <p className="sub2-content-text ">
                 1. Integrate multi-dimensional molecular and clinical oncology
                 data with AI semantics.
               </p>
